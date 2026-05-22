@@ -46,9 +46,3 @@ currently an ambassador at [Not The Hidden Wiki](https://github.com/notthehidden
 ### stats
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=nigaroid&show_icons=true&theme=dark&hide_border=true&icon_color=68D6B9&text_color=c9d1d9&bg_color=0d1117)](https://github.com/nigaroid)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=68D6B9&height=80&section=footer" width="100%" />
-</div>
