@@ -1,17 +1,15 @@
 ![metrics](https://github.com/nigaroid/nigaroid/blob/main/metrics.svg)
 
-
-
 ---
 
-### whoami
+### about me
   
-I do web & API penetration testing, application security engineering, and vulnerability research.
-currently an ambassador at [Not The Hidden Wiki](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/nigar_abasli.md), writing technical content, mentoring, and running CTFs.
+I do all types of penetration testing, application security engineering, and vulnerability research.
+currently an ambassador at [not the hidden wiki](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/nigar_abasli.md), writing technical content, mentoring, and running CTFs.
 
 ---
 
-### focus
+### main focus
 
 - **offensive** &nbsp;— web/api testing · osint · network recon · binary analysis  
 - **appsec** &nbsp;&nbsp;&nbsp;&nbsp;— sast · dast · iast · secure code review · ci/cd security  
@@ -19,7 +17,7 @@ currently an ambassador at [Not The Hidden Wiki](https://github.com/notthehidden
 
 ---
 
-### stack
+### skill stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -31,7 +29,7 @@ currently an ambassador at [Not The Hidden Wiki](https://github.com/notthehidden
 
 ---
 
-### connect
+### contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nigar-abasli)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/019c520f-03a9-7161-84cb-112c90648884)
