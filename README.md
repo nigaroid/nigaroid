@@ -3,6 +3,8 @@
 ---
 
 ### about me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=36BCF7&center=false&vCenter=true&lines=penetration+tester;appsec+engineer;vulnerability+researcher;ctf+runner+%26+mentor;ambassador+%40+nthw" alt="typing animation" />
   
 I do all types of penetration testing, application security engineering, and vulnerability research.
 currently an ambassador at [not the hidden wiki](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/nigar_abasli.md), writing technical content, mentoring, and running CTFs.
