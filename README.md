@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=68D6B9&height=140&section=header&text=nigar%20abasli&fontSize=38&fontColor=0d1117&animation=fadeIn&fontAlignY=42&desc=cybersecurity%20engineer%20%7C%20offensive%20security&descAlignY=62&descAlign=50&descSize=16&descColor=0d1117" width="100%" />
-</div>
+![metrics](https://github.com/nigaroid/nigaroid/blob/main/metrics.svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/nigar-abasli">
@@ -40,9 +38,3 @@ currently an ambassador at [Not The Hidden Wiki](https://github.com/notthehidden
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### stats
-
-<img src="./metrics.svg" width="100%" />
