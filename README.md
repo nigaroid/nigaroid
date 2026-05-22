@@ -1,20 +1,10 @@
 ![metrics](https://github.com/nigaroid/nigaroid/blob/main/metrics.svg)
 
-<p align="center">
-  <a href="https://linkedin.com/in/nigar-abasli">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  </a>
-  <a href="mailto:abaslinigarglobal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
-### about me
+### whoami
   
 I do web & API penetration testing, application security engineering, and vulnerability research.
 currently an ambassador at [Not The Hidden Wiki](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/nigar_abasli.md), writing technical content, mentoring, and running CTFs.
@@ -38,3 +28,11 @@ currently an ambassador at [Not The Hidden Wiki](https://github.com/notthehidden
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nigar-abasli)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abaslinigarglobal@gmail.com)
