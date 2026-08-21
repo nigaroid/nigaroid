@@ -1,5 +1,3 @@
----
-
 ### about me
 
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=36BCF7&center=false&vCenter=true&lines=penetration+tester;appsec+engineer;reverse+engineer;vulnerability+researcher;ctf+player+%26+mentor;ambassador+%40+nthw" alt="typing animation" />
