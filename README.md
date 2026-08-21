@@ -11,7 +11,7 @@ currently an ambassador at [not the hidden wiki](https://github.com/notthehidden
 
 - **offensive** &nbsp;— web/api pentesting · osint · network recon · binary exploitation · active directory · mobile security · llm pentesting  
 - **appsec** &nbsp;&nbsp;&nbsp;&nbsp;— sast · dast · iast · secure code review · ci/cd security  
-- **infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— docker · gitlab ci/cd · elk stack · linux · windows  
+- **infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— docker · kubernetes · gitlab ci/cd · linux · windows · android
 
 ---
 
