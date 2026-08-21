@@ -9,9 +9,9 @@ currently an ambassador at [not the hidden wiki](https://github.com/notthehidden
 
 ### main focus
 
-- **offensive** &nbsp;— web/api testing · osint · network recon · binary analysis  
+- **offensive** &nbsp;— web/api pentesting · osint · network recon · binary exploitation · active directory · mobile security · llm pentesting  
 - **appsec** &nbsp;&nbsp;&nbsp;&nbsp;— sast · dast · iast · secure code review · ci/cd security  
-- **infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— docker · gitlab ci/cd · elk stack · linux · active directory  
+- **infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— docker · gitlab ci/cd · elk stack · linux · windows  
 
 ---
 
